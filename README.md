@@ -1,6 +1,6 @@
 # Halite - Hack Days
 
-Code written as part of a work-hosted [Halite-III](https://2018.halite.io) competition.
+This is code written as part of a work-hosted [Halite-III](https://2018.halite.io) competition.
 
 This project uses the Java starter kit from the official [Halite-III repo](https://github.com/HaliteChallenge/Halite-III).
 
