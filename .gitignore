@@ -1,4 +1,9 @@
 *.hlt
+halite
+
+.DS_Store
+.idea/*
+*.iml
 
 # Compiled class file
 *.class
